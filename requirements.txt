@@ -10,3 +10,4 @@ django_heroku
 python-decouple
 urllib3
 django-storages
+boto3

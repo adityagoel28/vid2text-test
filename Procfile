@@ -1,1 +1,1 @@
-web: gunicorn vid2text.wsgi
+web: gunicorn hawkeye.wsgi

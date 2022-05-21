@@ -8,3 +8,4 @@ moviepy
 gunicorn
 django_heroku
 python-decouple
+urllib3
